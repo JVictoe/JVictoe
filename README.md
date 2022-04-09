@@ -1,7 +1,7 @@
 ### Olá, bem vindo ao meu GitHub 👋
-#### Eu sou desenvolvedor de jogos com a <img src='https://cdn-icons-png.flaticon.com/512/5969/5969346.png' height='40'>
-#### Utilizo a linguagem <img src='https://cdn-icons-png.flaticon.com/512/6132/6132221.png' height='40'>]
-#### O meu foco é o desenvolvimento de jogos mobile. Utilizo o <img src='https://w7.pngwing.com/pngs/298/710/png-transparent-logo-google-admob-logos-brands-in-colors-icon-thumbnail.png' height='40'>
+#### Eu sou desenvolvedor de jogos com a <img src='https://freepikpsd.com/file/2019/10/unity-5-icon-png-3-Transparent-Images.png' height='20'>
+#### Utilizo a linguagem <img src='https://cdn-icons-png.flaticon.com/512/6132/6132221.png' height='20'>
+#### O meu foco é o desenvolvimento de jogos mobile. Utilizo o <img src='https://w7.pngwing.com/pngs/298/710/png-transparent-logo-google-admob-logos-brands-in-colors-icon-thumbnail.png' height='20'>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVictoe&show_icons=true&&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVictoe&layout=compact&&theme=dracula)](https://github.com/JVictoe/github-readme-stats)
