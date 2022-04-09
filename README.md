@@ -4,10 +4,10 @@
 
 #### Tenho um curso publicado na Udemy onde eu ensino a integrar e utilizar os recursos do Firebase na Unity. Ao final do curso ensino a fazer um jogo da velha online utilizando o RealTime Database do Firebase.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVictoe&layout=compact&&theme=dracula)](https://github.com/JVictoe/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVictoe&show_icons=true&&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVictoe&layout=compact&&theme=dracula)](https://github.com/JVictoe/github-readme-stats)
-          
 <!--
 **JVictoe/JVictoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
