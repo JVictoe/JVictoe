@@ -1,5 +1,5 @@
 ### Olá, bem vindo ao meu GitHub 👋
-#### Eu sou desenvolvedor de jogos com a <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" height='20'/>
+#### Eu sou desenvolvedor de jogos com a <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
 e a linguagem <img src='https://cdn-icons-png.flaticon.com/512/6132/6132221.png' height='20'>
 #### Como foco é o desenvolvimento de jogos mobile. Utilizo o <img src='https://iconape.com/wp-content/files/kl/63706/svg/google-admob.svg' height='20'> para monetização com anuncio e o <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height='20'/> como back-end
 
