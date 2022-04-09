@@ -1,5 +1,5 @@
 ### Olá, bem vindo ao meu GitHub 👋
-#### Eu sou desenvolvedor de jogos Unity [<img src='https://www.flaticon.com/free-icon/unity_5969205' height='40'>](https://github.com/JVictoe)
+#### Eu sou desenvolvedor de jogos Unity [<img src='https://cdn-icons-png.flaticon.com/512/5969/5969205.png' height='40'>](https://github.com/JVictoe)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVictoe&show_icons=true&&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVictoe&layout=compact&&theme=dracula)](https://github.com/JVictoe/github-readme-stats)
           
