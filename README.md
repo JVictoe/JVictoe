@@ -1,4 +1,4 @@
-### Olá, bem vindo ao meu GitHub 👋
+## Olá, bem vindo ao meu GitHub 👋
 #### Eu sou desenvolvedor de jogos com a <img src='https://cdn.vox-cdn.com/thumbor/fVpbsZ8_wVyUWps4HQy9won5u5Y=/100x0:1180x720/1200x800/filters:focal(100x0:1180x720)/cdn.vox-cdn.com/uploads/chorus_image/image/31304769/unity-logo-black_1280.0.jpg' height='20'> e a linguagem <img src='https://cdn-icons-png.flaticon.com/512/6132/6132221.png' height='20'>
 #### Como meu foco é o desenvolvimento de jogos mobile. Utilizo o <img src='https://iconape.com/wp-content/files/kl/63706/svg/google-admob.svg' height='20'> para monetização com anuncio e o <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height='20'/> como back-end
 
