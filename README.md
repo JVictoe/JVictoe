@@ -3,7 +3,7 @@
 #### Como meu foco é o desenvolvimento de jogos mobile. Utilizo o <img src='https://iconape.com/wp-content/files/kl/63706/svg/google-admob.svg' height='20'> para monetização com anuncio e o <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height='20'/> como back-end
 
 #### Tenho um curso publicado na Udemy onde eu ensino a integrar e utilizar os recursos do Firebase na Unity. Ao final do curso ensino a fazer um jogo da velha online utilizando o RealTime Database do Firebase. <a href="https://www.udemy.com/course/aprenda-unity-com-firebase-2022/learn/lecture/30804920?referralCode=EB24B77D99BEA12A1CCB#overview" target="_blank">Ver na Udemy</a>
-
+ 
 
 ## Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVictoe&exclude_repo=https://github.com/JVictoe/DeepOcean)](https://github.com/JVctior/github-readme-stats)
