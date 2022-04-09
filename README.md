@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu GitHub 👋
 #### Eu sou desenvolvedor de jogos com a <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VCcB9TMejqfARvf_flIXtyYnYRZTZ_Ax7LU-DAj-60og9_FYy9wCnJvRXdPq4307TYs&usqp=CAU' height='20'> e a linguagem <img src='https://cdn-icons-png.flaticon.com/512/6132/6132221.png' height='20'>
-#### Como foco é o desenvolvimento de jogos mobile. Utilizo o <img src='https://iconape.com/wp-content/files/kl/63706/svg/google-admob.svg' height='20'> para monetização com anuncio e o <img src='https://services.google.com/fh/files/newsletters/firebase.png' height='20'> como back-end
+#### Como foco é o desenvolvimento de jogos mobile. Utilizo o <img src='https://iconape.com/wp-content/files/kl/63706/svg/google-admob.svg' height='20'> para monetização com anuncio e o <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /> como back-end
 
 #### Tenho um curso publicado na Udemy onde eu ensino a integrar e utilizar os recursos do Firebase na Unity. Ao final do curso ensino a fazer um jogo da velha online utilizando o RealTime Database do Firebase.
 
