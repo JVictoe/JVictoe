@@ -1,7 +1,6 @@
 ### Olá, bem vindo ao meu GitHub 👋
-#### Eu sou desenvolvedor de jogos com a <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VCcB9TMejqfARvf_flIXtyYnYRZTZ_Ax7LU-DAj-60og9_FYy9wCnJvRXdPq4307TYs&usqp=CAU' height='20'>
-#### Utilizo a linguagem <img src='https://cdn-icons-png.flaticon.com/512/6132/6132221.png' height='20'>
-#### O meu foco é o desenvolvimento de jogos mobile. Utilizo o <img src='https://w7.pngwing.com/pngs/298/710/png-transparent-logo-google-admob-logos-brands-in-colors-icon-thumbnail.png' height='20'>
+#### Eu sou desenvolvedor de jogos com a <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VCcB9TMejqfARvf_flIXtyYnYRZTZ_Ax7LU-DAj-60og9_FYy9wCnJvRXdPq4307TYs&usqp=CAU' height='20'> e a linguagem <img src='https://cdn-icons-png.flaticon.com/512/6132/6132221.png' height='20'>
+#### Como foco é o desenvolvimento de jogos mobile. Utilizo o <img src='https://iconape.com/wp-content/files/kl/63706/svg/google-admob.svg' height='20'> para monetização com anuncio e o <img src='https://firebase.google.cn/images/brand-guidelines/logo-standard.png?hl=pt-br' height='20'> como back-end
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVictoe&show_icons=true&&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVictoe&layout=compact&&theme=dracula)](https://github.com/JVictoe/github-readme-stats)
