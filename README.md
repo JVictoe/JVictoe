@@ -6,7 +6,7 @@
  
 
 ## Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVictoe&the=dracula)](https://github.com/JVictoe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVictoe&thema=gradient)](https://github.com/JVictoe/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JVictoe&show_icons=true&&theme=dracula)
 
